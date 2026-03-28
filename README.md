@@ -4,3 +4,5 @@ Changing the Economics of App &amp; Websites! By Replacing Advertising with Symb
 - [Google is Running Out of Storage](https://youtu.be/K7scVcNuX0E) by: [Mental Outlaw](https://www.youtube.com/@MentalOutlaw)
 
 - [Google is purging ad-blocking extension uBlock Origin](https://www.youtube.com/watch?v=eIcO8fayaz8&t=521s)
+
+- [the ad blocker your ISP doesn't want you to have](https://youtu.be/HsutI2tNiqI)
