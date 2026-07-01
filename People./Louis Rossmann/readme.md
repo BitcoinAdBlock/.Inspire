@@ -1,0 +1,1 @@
+- [Why I uninstalled ublock origin, this is WAY better!](https://youtu.be/7GeCq1qwqjc)
